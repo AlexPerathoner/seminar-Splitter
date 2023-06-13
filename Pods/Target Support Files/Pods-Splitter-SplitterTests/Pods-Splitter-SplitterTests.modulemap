@@ -1,0 +1,6 @@
+framework module Pods_Splitter_SplitterTests {
+  umbrella header "Pods-Splitter-SplitterTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
