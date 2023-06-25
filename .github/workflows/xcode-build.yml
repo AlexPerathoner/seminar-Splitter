@@ -35,5 +35,5 @@ jobs:
           -scheme SplitterUITests \
           -destination platform=macOS \
           -resultBundlePath TestResults \
-          -test-iterations 15 \
+          -test-iterations 30 \
           CODE_SIGNING_ALLOWED=NO || exit 1
